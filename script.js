@@ -6,7 +6,7 @@ let audios = [
     {caminho:'Iframe Partiu Rodeio - @LeoeRaphael feat. @rionegroesolimões (Caipira's no Barretão) [843pbsMcx8Y].mp3', legenda:'Helena'},
     {caminho:'Iframe Soy Boiadeiro - Léo & Raphael, @UsAgroboy, @LuanPereiraLP, @agroplaybr (Clipe Oficial) [T3sA_8srV-g].mp3', legenda:'Paula Fernandes'},
     {caminho:'Iframe Tantão - Us Agroboy, Brenno & Matheus, Dj Ari SL (Áudio oficial) [xxOke8AtExM].mp3', legenda:'Paula Fernandes'},
-    {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
+    {caminho:'Iframe Us Agroboy - Sextou_ Piseirão D'Us Agro [ghdXgtJwaE4].mp3', legenda:'Paula Fernandes'},
     {caminho:'titanic.mp3', legenda:'Titanic'},
 ];
 
