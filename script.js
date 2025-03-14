@@ -4,7 +4,7 @@ let audios = [
     {caminho:'Iframe Fazendinha Sessions #4_ Ryan SP, Mari Fernandez, Us Agroboy, Zé Felipe, LP, João Gomes, Mayck & Lyan [DFKiusBlu7c].mp3', legenda:'Paula Fernandes'},
     {caminho:'Iframe MEU CHAPÉU SUMIU - Fiduma & Jeca e @LuanPereiraLP (F&J 10 ANOS) [jvxXUp2j3t4].mp3', legenda:'Hayit'},
     {caminho:'Iframe Partiu Rodeio - @LeoeRaphael feat. @rionegroesolimões (Caipira's no Barretão) [843pbsMcx8Y].mp3', legenda:'Helena'},
-    {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
+    {caminho:'Iframe Soy Boiadeiro - Léo & Raphael, @UsAgroboy, @LuanPereiraLP, @agroplaybr (Clipe Oficial) [T3sA_8srV-g].mp3', legenda:'Paula Fernandes'},
     {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
     {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
     {caminho:'titanic.mp3', legenda:'Titanic'},
