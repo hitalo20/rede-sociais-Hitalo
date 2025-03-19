@@ -2,12 +2,12 @@ let audios = [
     {caminho:'brutodeverdade.mp3', legenda:'brutodeverdade.mp3'},
     {caminho:'camionetealta.mp3', legenda:'camionetealta.mp3'},
     {caminho:'fazendinha.mp3', legenda:'fazendinha.mp3'},
-    {caminho:'Hayit.mp3', legenda:'Hayit'},
-    {caminho:'Helena.mp3', legenda:'Helena'},
-    {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
-    {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
-    {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
-    {caminho:'titanic.mp3', legenda:'Titanic'},
+    {caminho:'meuchapeu.mp3', legenda:'meuchapeu.mp3'},
+    {caminho:'partiurodeio.mp3', legenda:'partiurodeio.mp3'},
+    {caminho:'soyboiaderio.mp3', legenda:'soyboiadeiro.mp3'},
+    {caminho:'tantão.mp3', legenda:'tantão.mp3'},
+    {caminho:'sextou.mp3', legenda:'sextou.mp3'},
+    {caminho:'vaqueiro.mp3', legenda:'vaqueiro.mp3'},
 ];
 
 let botoes = document.querySelectorAll('.botao');
