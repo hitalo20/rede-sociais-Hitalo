@@ -1,13 +1,13 @@
 let audios = [
-    {caminho:'Iframe Bruto de Raça - Antony & Gabriel, João Nelore & Texano part. Marco Brasil (Clipe Oficial) [pbE0Zxenmao] (2).mp3', legenda:'Matuto de verdade'},
-    {caminho:'Iframe Caminhoneta Alta - Dan Lellis, Caju, Cintia Souza & Junim Dantes ft. Rincon 061 (Oficial Videoclipe) [qdJd5YrCdrw].mp3', legenda:'Arash'},
-    {caminho:'Iframe Fazendinha Sessions #4_ Ryan SP, Mari Fernandez, Us Agroboy, Zé Felipe, LP, João Gomes, Mayck & Lyan [DFKiusBlu7c].mp3', legenda:'Paula Fernandes'},
-    {caminho:'Iframe MEU CHAPÉU SUMIU - Fiduma & Jeca e @LuanPereiraLP (F&J 10 ANOS) [jvxXUp2j3t4].mp3', legenda:'Hayit'},
-    {caminho:'Iframe Partiu Rodeio - @LeoeRaphael feat. @rionegroesolimões (Caipira's no Barretão) [843pbsMcx8Y].mp3', legenda:'Helena'},
-    {caminho:'Iframe Soy Boiadeiro - Léo & Raphael, @UsAgroboy, @LuanPereiraLP, @agroplaybr (Clipe Oficial) [T3sA_8srV-g].mp3', legenda:'Paula Fernandes'},
-    {caminho:'Iframe Tantão - Us Agroboy, Brenno & Matheus, Dj Ari SL (Áudio oficial) [xxOke8AtExM].mp3', legenda:'Paula Fernandes'},
-    {caminho:'Iframe Us Agroboy - Sextou_ Piseirão D'Us Agro [ghdXgtJwaE4].mp3', legenda:'Paula Fernandes'},
-    {caminho:'Iframe Vaqueiro - Us Agroboy, Grego, NOG (Clipe Oficial) [EHK6B1O03NQ].mp3', legenda:'Titanic'},
+    {caminho:'brutodeverdade.mp3', legenda:'brutodeverdade.mp3'},
+    {caminho:'camionetealta.mp3', legenda:'camionetealta.mp3'},
+    {caminho:'fazendinha.mp3', legenda:'fazendinha.mp3'},
+    {caminho:'Hayit.mp3', legenda:'Hayit'},
+    {caminho:'Helena.mp3', legenda:'Helena'},
+    {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
+    {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
+    {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
+    {caminho:'titanic.mp3', legenda:'Titanic'},
 ];
 
 let botoes = document.querySelectorAll('.botao');
